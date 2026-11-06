@@ -1,0 +1,2 @@
+paho.mqtt
+gpiod >= 2.1.0 
